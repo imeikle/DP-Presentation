@@ -1,5 +1,5 @@
 ---
-title       : Staistical Power
+title       : Statistical Power
 subtitle    : A shiny app to calculate required sample size
 author      : Ian Meikle
 job         : 
